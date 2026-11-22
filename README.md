@@ -9,6 +9,13 @@
 
 `index.html` 部署到 GitHub Pages 后可直接打开：**https://wawmlh1314-leo.github.io/gdou-schedule-web/**
 
+## 下载离线版（推荐发同学）
+
+到 [**Releases**](https://github.com/wawmlh1314-leo/gdou-schedule-web/releases) 下载单个 HTML 文件，双击用浏览器打开即可，不联网也能用：
+
+- `gdou-schedule-web-v1.0.0.html` —— 空白版（推荐），打开后导入自己的课表 PDF
+- `gdou-schedule-demo-v1.0.0.html` —— 演示版，内置示例课表
+
 ## 两个文件
 
 | 文件 | 说明 |
