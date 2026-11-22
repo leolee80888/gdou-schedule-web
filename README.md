@@ -1,4 +1,4 @@
-﻿# 广海课表云 Web 版（GdouSchedule Web）
+# 广海课表云 Web 版（GdouSchedule Web）
 
 仿 Android 应用「广海课表云」的**单文件网页课表**：把一个 HTML 文件丢进浏览器就能用，导入教务系统导出的课表 PDF 后自动排成周课表，并区分「本周 / 非本周」。
 
@@ -9,17 +9,17 @@
 
 到 [**Releases**](https://github.com/leolee80888/gdou-schedule-web/releases) 下载单个 HTML 文件，双击用浏览器打开即可，不联网也能用：
 
-- `gdou-schedule-web-v1.0.0.html` —— 空白版（推荐），打开后导入自己的课表 PDF
-- `gdou-schedule-demo-v1.0.0.html` —— 演示版，内置示例课表
+- `gdou-schedule-web-v1.0.0.html` —— 空白版，打开后导入自己的课表 PDF
 
-也可以直接克隆仓库，用仓库里的文件：
+也可以直接克隆仓库，用仓库里的 `index.html`（与 Release 里的文件内容一致）。
 
-## 两个文件
+## 单文件
+
+仓库只有一份可执行文件：
 
 | 文件 | 说明 |
 | --- | --- |
-| `index.html` | **空白版（推荐）**：默认没有课程，点右上角「⌫/导入」选自己的课表 PDF 即可 |
-| `demo.html` | 演示版：内置一份 2026-2027-1 示例课表，打开就能看到效果 |
+| `index.html` | 空白课表：默认没有课程，点右上角「导入」选自己的课表 PDF 即可 |
 
 ## 功能
 
