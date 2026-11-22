@@ -7,7 +7,7 @@
 
 ## 下载
 
-到 [**Releases**](https://github.com/wawmlh1314-leo/gdou-schedule-web/releases) 下载单个 HTML 文件，双击用浏览器打开即可，不联网也能用：
+到 [**Releases**](https://github.com/leolee80888/gdou-schedule-web/releases) 下载单个 HTML 文件，双击用浏览器打开即可，不联网也能用：
 
 - `gdou-schedule-web-v1.0.0.html` —— 空白版（推荐），打开后导入自己的课表 PDF
 - `gdou-schedule-demo-v1.0.0.html` —— 演示版，内置示例课表
