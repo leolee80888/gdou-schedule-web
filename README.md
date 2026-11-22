@@ -4,6 +4,7 @@
 
 - 无后端、无外部依赖、无网络请求，所有数据只存在浏览器本地（`localStorage`）
 - **纯本地文件**：双击 HTML 用浏览器打开即可使用，本项目不提供在线部署，请下载到本地运行
+- iOS 版（原生 App）：[gdou-schedule-ios](https://github.com/leolee80888/gdou-schedule-ios)
 
 ## 下载
 
